@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "dslGradientLineChart",
+        "displayName": "Gradient Line Chart (Open Source)",
+        "guid": "dslGradientLineChart0C0BE25AEDD64E0C807A1D2365D25E07",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "Line chart with gradient fills for up to eight series, styled line by line, with axis formatting, tooltips and drill-down.",
+        "supportUrl": "https://github.com/DataSL/powerbi-gradient-line-chart/issues",
+        "gitHubUrl": "https://github.com/DataSL/powerbi-gradient-line-chart"
+    },
+    "apiVersion": "5.10.0",
+    "author": {
+        "name": "Data SL Consulting",
+        "email": "contact@data-slconsulting.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}

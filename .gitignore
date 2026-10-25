@@ -1,0 +1,36 @@
+# Power BI Custom Visual - Required entries for certification
+node_modules
+.tmp
+dist
+
+# Build outputs
+.cache
+.build
+*.pbiviz
+webpack.statistics.*.html
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
